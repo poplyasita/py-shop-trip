@@ -1,3 +1,4 @@
+# flake8: noqa E231
 import datetime
 import math
 from dataclasses import dataclass
